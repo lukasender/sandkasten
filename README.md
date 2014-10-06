@@ -8,3 +8,4 @@ Castles
 
  - dlang: stuff developed with [D](http://dlang.org/).
  
+ - clang: stuff developed with C.
